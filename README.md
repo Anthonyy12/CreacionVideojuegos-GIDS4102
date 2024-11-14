@@ -29,7 +29,7 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 - [05: Prototipo 4](#06-prototipo-4)
 - [06: Prototipo 5](#07-prototipo-5)
 
----
+----
 
 ## 01: Prototipo 1
 #### *Evidencias*
@@ -40,3 +40,15 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 ##### *Nota*
 Cuando se inicio el curso de la materia no se había comentado de documentar las evidencias de autoria para este primer prototipo
 
+----
+
+## 02: Prototipo 2
+#### *Evidencias*
+
+![image](https://github.com/user-attachments/assets/8dffb6f1-1694-48d0-956a-ac2e13b5f8f8)
+![image](https://github.com/user-attachments/assets/7234e7a8-685e-4a31-91dc-f67409377db2)
+
+##### *PDF*
+
+
+----
