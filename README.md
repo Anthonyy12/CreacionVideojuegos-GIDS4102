@@ -10,7 +10,7 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 <p align="center">
 <strong><a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/Prototipo-1.unitypackage">Prototipo 1</a></strong>
 |
-<strong><a href="#link2">Prototipo 2</a></strong>
+<strong><a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/Prototipo-2.unitypackage">Prototipo 2</a></strong>
 |
 <strong><a href="#link3">Prototipo 3</a></strong>
 |
@@ -24,10 +24,10 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 ### TABLA DE CONTENIDO
 - [01: Prototipo 1](#01-prototipo-1)
 - [02: Prototipo 2](#02-prototipo-2)
-- [03: Desafío 2](#04-desafío-2)
-- [04: Prototipo 3](#05-prototipo-3)
-- [05: Prototipo 4](#06-prototipo-4)
-- [06: Prototipo 5](#07-prototipo-5)
+- [03: Prototipo 3](#03-prototipo-3)
+- [04: Prototipo 4](#04-prototipo-4)
+- [05: Prototipo 5](#05-prototipo-5)
+- [06: Desafío 2](#06-desafío-2)
 
 ----
 
@@ -54,3 +54,14 @@ Cuando se inicio el curso de la materia no se había comentado de documentar las
 </a>
 
 ----
+
+## 03: Prototipo 3
+#### *Evidencias*
+
+![image](https://github.com/user-attachments/assets/e1776d72-4913-494a-ba99-cd092baca61d)
+![image](https://github.com/user-attachments/assets/dc55ec79-ebaf-4563-b542-c64763aa0c69)
+
+##### *PDF*
+<a href="" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="30"/>
+</a>
