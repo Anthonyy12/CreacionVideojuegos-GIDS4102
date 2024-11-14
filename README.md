@@ -49,7 +49,7 @@ Cuando se inicio el curso de la materia no se había comentado de documentar las
 ![image](https://github.com/user-attachments/assets/7234e7a8-685e-4a31-91dc-f67409377db2)
 
 ##### *PDF*
-<a href="" target="_blank">
+<a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/PDF's/Prototipo%202.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="30"/>
 </a>
 
