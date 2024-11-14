@@ -8,7 +8,7 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 ----
 ### Enlaces para la ubicación de los prototipos
 <p align="center">
-<strong><a href="#link1">Prototipo 1</a></strong>
+<strong><a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/Prototipo-1.unitypackage">Prototipo 1</a></strong>
 |
 <strong><a href="#link2">Prototipo 2</a></strong>
 |
@@ -24,11 +24,10 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 ### TABLA DE CONTENIDO
 - [01: Prototipo 1](#01-prototipo-1)
 - [02: Prototipo 2](#02-prototipo-2)
-- [03: Desafío 1](#03-desafío-1)
-- [04: Desafío 2](#04-desafío-2)
-- [05: Prototipo 3](#05-prototipo-3)
-- [06: Prototipo 4](#06-prototipo-4)
-- [07: Prototipo 5](#07-prototipo-5)
+- [03: Desafío 2](#04-desafío-2)
+- [04: Prototipo 3](#05-prototipo-3)
+- [05: Prototipo 4](#06-prototipo-4)
+- [06: Prototipo 5](#07-prototipo-5)
 
 ---
 
