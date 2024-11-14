@@ -12,7 +12,7 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 |
 <strong><a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/Prototipo-2.unitypackage">Prototipo 2</a></strong>
 |
-<strong><a href="#link3">Prototipo 3</a></strong>
+<strong><a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/Prototipo-3.unitypackage">Prototipo 3</a></strong>
 |
 <strong><a href="#link4">Prototipo 4</a></strong>
 |
@@ -62,6 +62,6 @@ Cuando se inicio el curso de la materia no se había comentado de documentar las
 ![image](https://github.com/user-attachments/assets/dc55ec79-ebaf-4563-b542-c64763aa0c69)
 
 ##### *PDF*
-<a href="" target="_blank">
+<a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/PDF's/Prototipo%203.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="30"/>
 </a>
