@@ -65,3 +65,27 @@ Cuando se inicio el curso de la materia no se había comentado de documentar las
 <a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/PDF's/Prototipo%203.pdf" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="30"/>
 </a>
+
+----
+
+## 04: Prototipo 4
+#### *Evidencias*
+
+
+
+##### *PDF*
+<a href="" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="30"/>
+</a>
+
+----
+
+## 05: Prototipo 5
+#### *Evidencias*
+
+
+
+##### *PDF*
+<a href="" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="30"/>
+</a>
