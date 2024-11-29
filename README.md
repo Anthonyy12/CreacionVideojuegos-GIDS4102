@@ -97,8 +97,8 @@ Cuando se inicio el curso de la materia no se había comentado de documentar las
 
 ## 06: Prototipo 6
 #### *Evidencias*
-
-
+![image](https://github.com/user-attachments/assets/59be1c9c-d230-4ffa-a123-36858779163f)
+![image](https://github.com/user-attachments/assets/a73eb08a-e276-412f-931f-4da5cc3ed95f)
 
 ##### *PDF*
 <a href="" target="_blank">
