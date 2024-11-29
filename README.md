@@ -70,8 +70,8 @@ Cuando se inicio el curso de la materia no se había comentado de documentar las
 
 ## 04: Prototipo 4
 #### *Evidencias*
-
-
+![image](https://github.com/user-attachments/assets/ffd22fa5-96c6-45a5-b2be-1f81cbfa741b)
+![image](https://github.com/user-attachments/assets/4b97c5c7-35c4-4a56-a201-76b1c8ca1616)
 
 ##### *PDF*
 <a href="" target="_blank">
