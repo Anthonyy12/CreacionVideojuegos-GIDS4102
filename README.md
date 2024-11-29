@@ -6,7 +6,7 @@ Este repositorio cuenta con los desafíos, prototipos y challenge realizados dur
 **GIDS4102**
 
 ----
-### Enlaces para la ubicación de los prototipos
+### Enlaces para la ubicación de los Package de los prototipos
 <p align="center">
 <strong><a href="https://github.com/Anthonyy12/CreacionVideojuegos-GIDS4102/blob/main/Prototipo-1.unitypackage">Prototipo 1</a></strong>
 |
